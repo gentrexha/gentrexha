@@ -2,7 +2,7 @@
 
 #### I'm a Data Scientist and Engineer based in Prishtina, Kosovo.
 
-- 🏢 Working full-time as a Data Engineer with awesome peeps at **Cow Protocol**
+- 🏢 Working full-time as a Data Engineer with awesome people at **Cow Protocol**
 - 🪜 Previously a Data Scientist at **Zoovu** & at **Siemens**
 - ⚙️ Love workin with: `.py`, `.ipynb`, `.sql`
 - 🌱 Learning more about and studying: **Open Source, Blockchain, Deep Learning**
