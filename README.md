@@ -5,7 +5,7 @@
 - 🏢 Working full-time as a Data Engineer with awesome people at **Cow Protocol**
 - 🪜 Previously a Data Scientist at **Zoovu** & at **Siemens**
 - ⚙️ Love workin with: `.py`, `.ipynb`, `.sql`
-- 🌱 Learning more about and studying: **Open Source, Blockchain, Deep Learning**
+- 🌱 Learning more about and studying: **Open Source, Blockchain, NLP, and Deep Learning**
 - 📫 Reach me asap: gentrexha@gmail.com
 
 #### Find me around the web 🌎:
